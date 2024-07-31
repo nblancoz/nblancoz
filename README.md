@@ -1,10 +1,10 @@
-### <div align="center">Hi! 👋 I'm Nicolás, a passionate Full Stack Web Developer 🚀</div>
+### <div align="center">Hi! 👋 I'm Nicolás, a passionate Full Stack Web & Mobile Developer 🚀</div>
 
 ### 🙋🏻‍♂️ About me
 
-- 🫡 Passionate of Web Development and soccer.
+- 🫡 Passionate of Web and Mobile Development.
 
-- 📚 I’m currently learning Web Development in Valencia, España.
+- 📚 I’m currently learning Mobile Development.
 
 <br/>
 
@@ -25,6 +25,8 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://dart.dev" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dart_programming_language_logo_icon.svg/2048px-Dart_programming_language_logo_icon.svg.png" alt="Dart" height="50" /></a>  
+<a href="https://flutter.dev" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/353751/flutter.svg" alt="Flutter" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
