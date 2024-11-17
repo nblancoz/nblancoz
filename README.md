@@ -4,7 +4,9 @@
 
 - 🫡 Passionate of Web and Mobile Development.
 
-- 📚 I’m currently learning Mobile Development.
+- 📚 I’m currently learning Software Development.
+
+- 📖 I’m currently studying 'Grado Superior de Desarrollo de Aplicaciones Web' in 'Universidad Europea' online.
 
 <br/>
 
@@ -42,6 +44,8 @@
 <a href="https://git-scm.com" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>   
 </div>
 
 </td><td valign="top" width="33%">
